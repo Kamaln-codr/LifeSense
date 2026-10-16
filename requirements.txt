@@ -1,0 +1,9 @@
+Project Dependencies
+
+Data Visualization matplotlib
+
+Numerical Computing numpy
+
+Data Analysis and Manipulation pandas
+
+MySQL Database Connectivity mysql-connector-python
